@@ -16,7 +16,17 @@ header,nav,footer{
     padding: 20px;
     text-align: center;
     color:white;
-    
-
-
 }
+.cabeca{
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+.navegacao{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.footer{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
